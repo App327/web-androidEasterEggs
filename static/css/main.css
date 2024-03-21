@@ -63,3 +63,7 @@ i, em {
 b i, i b, em strong, strong em, b em, em b, strong i, i strong {
  font-family: 'Roboto BoldItalic';
 }
+
+button, textarea, input, select {
+ font-family: inherit;
+}
