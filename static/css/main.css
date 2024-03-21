@@ -51,3 +51,15 @@ body {
  font-family: 'Roboto Regular', sans-serif;
  margin: 0;
 }
+
+b, strong {
+ font-family: 'Roboto Bold';
+}
+
+i, em {
+ font-family: 'Roboto Italic;
+}
+
+b i, i b, em strong, strong em, b em, em b, strong i, i strong {
+ font-family: 'Roboto BoldItalic';
+}
