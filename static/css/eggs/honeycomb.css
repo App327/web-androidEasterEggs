@@ -1,0 +1,17 @@
+body {
+ background-image: url(/static/img/eggs/honeycomb/wp.jpg); /* Обои */
+ background-color: black; /* Если не удалось загрузить обои */
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+}
+
+.bee {
+ position: absolute;
+ top: 50%;
+ left: 0;
+ width: 100%;
+ height: auto;
+ transform: translateY(-50%);
+}
