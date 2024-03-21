@@ -1,0 +1,58 @@
+.toast {
+ color: white;
+ background: rgb(100, 100, 100);
+ border-radius: 20px;
+ position: fixed;
+ bottom: 15%;
+ padding-left: 15px;
+ padding-right: 5px;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ left: 50%;
+ user-select: none;
+ transform: translateX(-50%);
+ animation: closeToast 300ms forwards !important;
+}
+
+.toast.show {
+ animation: showToast 300ms forwards !important;
+}
+
+@keyframes showToast {
+ from { opacity: 0; }
+ to { opacity: 0.9; }
+}
+
+@keyframes closeToast {
+ from { opacity: 0.9; }
+ to { opacity: 0; }
+}
+
+.toast2 {
+ color: black;
+ background: rgb(237, 241, 250);
+ border-radius: 20px;
+ position: fixed;
+ bottom: 15%;
+ padding-left: 15px;
+ padding-right: 5px;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ left: 50%;
+ user-select: none;
+ transform: translateX(-50%);
+ animation: closeToast 300ms forwards !important;
+}
+
+.toast2.show {
+ animation: showToast 300ms forwards !important;
+}
+
+.toast3 {
+ user-select: none;
+ animation: closeToast 300ms forwards !important;
+}
+
+.toast3.show {
+ animation: showToast 300ms forwards !important;
+}
