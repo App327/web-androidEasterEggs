@@ -1,0 +1,30 @@
+.alert-warn {
+ background: gold;
+ width: 100%;
+ padding-top: 5px;
+ padding-bottom: 5px;
+ color: brown;
+}
+
+.alert-warn p {
+ margin-left: 10px;
+}
+
+a {
+ color: dodgerblue;
+}
+
+a:hover {
+ color: royalblue;
+}
+
+h1 {
+ color: navy;
+ padding-left: 10px;
+}
+
+.trademarks {
+ padding-left: 10px;
+ font-size: 0.75em;
+ color: teal;
+}
