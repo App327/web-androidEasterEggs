@@ -11,7 +11,7 @@
 |----------------|-----------------|
 | 2.3 Gingerbread | ✔️✔️ |
 | 3.0 Honeycomb | ✔️✔️ |
-| 4.0 Ice Cream Sandwich | ✖️ |
+| 4.0 Ice Cream Sandwich | 🔄 |
 | 4.1 – 4.3 Jelly Bean | ✖️ |
 | 4.4 KitKat | ✖️ |
 | 5.0 Lollipop | ✖️ |
