@@ -31,4 +31,5 @@ h1 {
 
 .egg-unavailable {
  color: grey;
+ text-decoration: none;
 }
