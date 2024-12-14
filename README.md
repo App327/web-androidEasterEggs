@@ -24,7 +24,8 @@
 | 12 Snow Cone | ✖️ |
 | 13 Tiramisu | ✖️ |
 | 14 Upside Down Cake | ✖️ |
-| 15 Vanilla Ice Cream | ⌛ |
+| 15 Vanilla Ice Cream | ✖️ |
+| 16 Baklava | ⏳ |
 
 ✔️✔️ — Полностью готово
 
