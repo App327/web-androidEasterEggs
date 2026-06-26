@@ -26,6 +26,7 @@
 | 14 Upside Down Cake | ✖️ |
 | 15 Vanilla Ice Cream | ✖️ |
 | 16 Baklava | ✖️ |
+| 17 Cinnamon Bun | ✖️ |
 
 ✔️✔️ — Полностью готово
 
